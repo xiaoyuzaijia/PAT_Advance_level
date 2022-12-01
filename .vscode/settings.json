@@ -1,0 +1,11 @@
+{
+    "python.analysis.typeCheckingMode": "basic",
+    "files.associations": {
+        "iostream": "cpp",
+        "deque": "cpp",
+        "format": "cpp",
+        "list": "cpp",
+        "vector": "cpp",
+        "xstring": "cpp"
+    }
+}
